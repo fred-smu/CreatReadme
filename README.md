@@ -1,2 +1,2 @@
 # CreatReadme
-creats a usable readme.md
+creates a usable readme.md 
